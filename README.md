@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Karunamoorthy(@haikaruna)
+- 👋 Hi, I’m Karun (@haikaruna)
 - 👀 I’m interested in shell scripting, Python
 - 🌱 I’m currently learning Google cloud
-- 📫 How to reach me karunamoorthy9994@gmail.com
 
 <!---
 haikaruna/haikaruna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
